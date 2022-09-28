@@ -14,11 +14,11 @@ div.background{
 }
 @font-face {
     font-family: 'Montserrat';
-    src: url('static/fonts/Montserrat-Regular.ttf');
+    src: url('/static/fonts/Montserrat-Regular.ttf');
 }
 @font-face {
     font-family: 'Poppins';
-    src: url('static/fonts/Poppins-Regular.ttf');
+    src: url('/static/fonts/Poppins-Regular.ttf');
 }
 div.info{
     z-index: 2;
@@ -45,7 +45,7 @@ h3.info{
     margin: 0;
 }
 div.avatar{
-    background-image: url('static/media/av.gif');
+    background-image: url('/static/media/av.gif');
     width: 5rem;
     height: 5rem;
     background-size: contain;
