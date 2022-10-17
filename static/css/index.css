@@ -44,12 +44,10 @@ h3.info{
     padding: 0;
     margin: 0;
 }
-div.avatar{
-    background-image: url('/static/media/av.gif');
+img.avatar{
     width: 5rem;
-    height: 5rem;
-    background-size: contain;
     border-radius: 100%;
+    image
 }
 a.btn-badge{
     background-color: rgb(66, 66, 66);
